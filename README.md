@@ -13,7 +13,7 @@ What’s the thing we need for using WordPress?:
 
 domain name
 hosting
-[lorem ipsum](http://batuhanozcan.com.tr/whats-wordpress-and-what-can-we-do-with-it/)
+[kaynak](http://batuhanozcan.com.tr/whats-wordpress-and-what-can-we-do-with-it/)
 
 
 
