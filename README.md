@@ -11,8 +11,7 @@ Blog , e-commerce, corporate and brand sites are only a few things you can do wi
 
 What’s the thing we need for using WordPress?:
 
-domain name
-hosting
+domain name, hosting
 
 [kaynak](http://batuhanozcan.com.tr/whats-wordpress-and-what-can-we-do-with-it/)
 
